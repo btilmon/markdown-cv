@@ -15,7 +15,7 @@ Computer Vision, Graphics, Machine Learning
 ## Experience
 
 `07/2023 - Present`
-__<a href="https://quidient.com/">Quidient</a>__, Columbia, MD
+<a href="https://quidient.com/">Quidient</a>, Columbia, MD
 
 - Manager of the Algorithm Group, a small focused team building computer vision, graphics, and machine learning algorithms that have directly contributed in securing millions of funding dollars from enterprise and government customers.
 
