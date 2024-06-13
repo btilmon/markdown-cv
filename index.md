@@ -46,18 +46,16 @@ Computer Vision, Graphics, Machine Learning
   
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`05/2019 - 12/2023`
+__University of Florida__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- PhD, Electrical and Computer Engineering
 
-- Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
+`08/2015 - 05/2019`
+__Murray State University__
 
-- Fellow
+- BS, Electrical Engineering
 
 
 
@@ -65,8 +63,10 @@ __Trinity College, Cambridge__
 
 
 
-<!-- ### Footer
 
-Last updated: May 2013 -->
+
+### Footer
+
+Last updated: June 2024 
 
 
