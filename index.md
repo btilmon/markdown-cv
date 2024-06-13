@@ -3,11 +3,13 @@ layout: cv
 title: Isaac Newtons's CV
 ---
 # Brevin Tilmon
-Software Engineer and Researcher in Computer Vision, Graphics, Machine Learning.
+Computer Vision, Graphics, Machine Learning
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="brevinjt@gmail.com">brevinjt@gmail.com</a>
+| <a href="https://btilmon.github.io/">Homepage</a>
+| <a href="https://github.com/btilmon">GitHub</a>
+| <a href="https://scholar.google.com/citations?user=-bgfLW4AAAAJ&hl=en">Google Scholar</a>
 </div>
 
 
