@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Brevin Tilmon's CV
 ---
 # Brevin Tilmon
 Computer Vision, Graphics, Machine Learning
