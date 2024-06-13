@@ -38,7 +38,7 @@ Computer Vision, Graphics, Machine Learning
 - Developed machine learning model for on-device depth sensing in AR/VR headsets.
 
 
-`08/2021 - 12/2021`
+`04/2021 - 08/2021`
 <a href="https://www.nasa.gov/intelligent-systems-division/autonomous-systems-and-robotics/intelligent-robotics-group/">__NASA__</a>, Remote
 
 - Developed physically based rendering engine to simulate internal imaging systems, with downstream applications to neural radiance fields. 
