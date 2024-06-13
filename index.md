@@ -60,13 +60,3 @@ __Murray State University__
 
 
 
-
-
-
-
-
-### Footer
-
-Last updated: June 2024 
-
-
