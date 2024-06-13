@@ -15,10 +15,9 @@ Computer Vision, Graphics, Machine Learning
 ## Experience
 
 `07/2023 - Present`
-__Quidient__, Columbia, MD
+__<a href="https://quidient.com/">Quidient</a>__, Columbia, MD
 
-- Manger of the Algorithm Group, a small focused team building computer vision, graphics, and machine learning features for Quidient reconstruction products.
-- 
+- Manager of the Algorithm Group, a small focused team building computer vision, graphics, and machine learning algorithms that have directly contributed in securing millions of funding dollars from enterprise and government customers.
 
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
